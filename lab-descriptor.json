@@ -8,7 +8,7 @@
   "lab_display_name": "Mechanical Metallurgy",
   "phase": "3-ext",
   "collegeName": "IITK",
-  "baseUrl": "mm-iitk.vlabs.ac.in",
+  "baseUrl": "mec-met-iitk.vlabs.ac.in",
   "introduction": "In this lab, the students will learn about the theory and working principle of different mechanical testing techniques for the evaluation of various mechanical properties. In addition, the students will learn about the conducting these experiments via this virtual lab. Furthermore, the this lab will provide the knowledge about using these testing methods to understand some phenomenon, such as precipitation strengthening, work hardening, etc.",
    "experiments": [
     {
